@@ -30,7 +30,7 @@
         {
             foreach (int number in array)
             {
-                Console.WriteLine(number + " ");
+                Console.WriteLine(number);
             }
         }
     }
