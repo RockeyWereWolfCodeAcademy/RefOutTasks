@@ -1,0 +1,14 @@
+C:\Users\User\RefOutTasks\RefOutTasks\bin\Debug\net6.0\RefOutTasks.exe
+C:\Users\User\RefOutTasks\RefOutTasks\bin\Debug\net6.0\RefOutTasks.deps.json
+C:\Users\User\RefOutTasks\RefOutTasks\bin\Debug\net6.0\RefOutTasks.runtimeconfig.json
+C:\Users\User\RefOutTasks\RefOutTasks\bin\Debug\net6.0\RefOutTasks.dll
+C:\Users\User\RefOutTasks\RefOutTasks\bin\Debug\net6.0\RefOutTasks.pdb
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\RefOutTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\RefOutTasks.AssemblyInfoInputs.cache
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\RefOutTasks.AssemblyInfo.cs
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\RefOutTasks.csproj.CoreCompileInputs.cache
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\RefOutTasks.dll
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\refint\RefOutTasks.dll
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\RefOutTasks.pdb
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\RefOutTasks.genruntimeconfig.cache
+C:\Users\User\RefOutTasks\RefOutTasks\obj\Debug\net6.0\ref\RefOutTasks.dll
